@@ -1,0 +1,101 @@
+body {
+    font-size: 14px;
+    text-align: left;
+}
+
+h2  {
+    margin-left: 10%;
+    margin-bottom: 5%;
+}
+
+.portfolio {
+    font-family: 'Roboto', sans-serif;
+    font-size: 4em;
+    margin-top: 10%;
+}
+
+img {
+    width: 50%;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  margin-left: 20%;
+  margin-right: -20%;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+.image4, .sub4 {
+    margin-top: -20%;
+}
+
+.image2, .sub2 {
+    margin-left: 10%;
+}
+
+.image3, .sub3 {
+    margin-left: 10%;
+}
+
+.image1, .sub1 {
+    margin-left: 20%;
+}
+
+h5 {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 2%;
+}
+
+.sub1 {
+    margin-bottom: 5%;
+}
+
+.sub4 {
+    margin-top: 5%;
+}
+
+nav {
+    position: relative;
+    margin-left: 5%;
+    margin-bottom: 5%;
+}
+
+nav ul li {
+    display: inline-block;
+    padding-right: 10%;
+    margin-top: 5%;
+}
+
+a {
+    color: darkgray;
+    font-size: 2em;
+    font-family: 'Roboto', sans-serif;
+    padding-left: -10%;
+}
+
+a:hover {
+    color: purple;
+    text-decoration: none;
+}
+
+@media (max-width: 575.98px) {
+    nav {
+        margin-top: 30%;
+    }
+
+    row {
+        dislay: none;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    nav {
+        margin-top: 30%;
+    }
+}

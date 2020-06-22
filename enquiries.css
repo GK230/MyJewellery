@@ -1,0 +1,90 @@
+body {
+    font-size: 14px;
+    text-align: left;
+}
+
+h2  {
+    margin-left: 10%;
+    margin-bottom: 2%;
+    margin-top: 5%;
+}
+
+form {
+    margin-left: 20%;
+}
+
+input[type=text], input[type=email] {
+    width: 50%;
+    background-color: #f8f8f8;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+
+}
+
+input[type=text]:focus {
+    outline: none;
+    border: 2px solid black;
+}
+
+input[type=email]:focus {
+    outline: none;
+    border: 2px solid black;
+}
+
+textarea {
+    width: 50%;
+    height: 150px;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    resize: none;
+    background-color: #f8f8f8;
+}
+
+textarea:focus {
+    outline: none;
+    border: 2px solid black;
+}
+
+input[type=submit] {
+    cursor: pointer;
+    margin-left: 45%;
+    background-color: #f8f8f8;
+
+
+}
+
+nav {
+    position: relative;
+    margin-left: 5%;
+    margin-bottom: 5%;
+}
+
+nav ul li {
+    display: inline-block;
+    padding-right: 10%;
+    margin-top: 5%;
+}
+
+a {
+    color: darkgray;
+    font-size: 2em;
+    font-family: 'Roboto', sans-serif;
+    padding-left: -10%;
+}
+
+a:hover {
+    color: purple;
+    text-decoration: none;
+}
+
+@media (max-width: 575.98px) {
+    nav {
+        margin-top: 10%;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    nav {
+        margin-top: 10%;
+    }
+}
