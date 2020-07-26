@@ -1,3 +1,7 @@
+Visit the site:
+
+https://gk230.github.io/MyJewellery/profile.html
+
 ![project image](https://github.com/GK230/MyJewellery/blob/master/Screen%20Shot%202020-07-25%20at%2014.26.00.png)
 
 This is another assignment for CS50. We had to create a personal website, something about ourselves, or a hobby or interest.
