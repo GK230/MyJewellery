@@ -1,6 +1,6 @@
 Visit the site:
 
-https://gk230.github.io/MyJewellery/profile.html
+https://suspicious-johnson-4b2be2.netlify.app/
 
 ![project image](https://github.com/GK230/MyJewellery/blob/master/Screen%20Shot%202020-07-25%20at%2014.26.00.png)
 
