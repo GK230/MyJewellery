@@ -33,6 +33,8 @@ h3 {
 
 nav {
     position: relative;
+    top: 50%;
+    left: 40%;
 /*     margin-top: 5%; */
 }
 
