@@ -11,8 +11,8 @@ main, nav {
 }
 
 .card {
-    height: 40%;
-    width: 45%;
+    height: 100%;
+    width: 60%;
     border: solid 1px;
     box-shadow: 10px 10px;
     text-align: center;
