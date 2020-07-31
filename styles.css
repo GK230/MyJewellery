@@ -15,7 +15,7 @@ main, nav {
     box-shadow: 10px 10px;
     height: 50%;
     width: 70%;
-    padding: 7%;
+    padding: 5%;
     margin: 25vh 10vw;
     text-align: center;
 }
@@ -28,12 +28,12 @@ h1 {
 
 h3 {
     font-family: 'Roboto', sans-serif;
-    margin-top: 5%;
+    margin-top: 3%;
 }
 
 nav {
     position: relative;
-    margin-top: 5%;
+    margin-top: 2%;
 }
 
 nav ul li {
