@@ -32,10 +32,9 @@ h3 {
 }
 
 nav {
-    position: relative;
+    position: absolute;
     top: 50%;
     left: 40%;
-/*     margin-top: 5%; */
 }
 
 nav ul li {
