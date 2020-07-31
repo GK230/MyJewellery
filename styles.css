@@ -35,6 +35,9 @@ nav {
     position: absolute;
     top: 70%;
     left: 40%;
+    margin-top: -10%;
+    padding: 0 20%;
+}
 }
 
 nav ul li {
