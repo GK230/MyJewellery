@@ -6,7 +6,7 @@ Visit the site: https://suspicious-johnson-4b2be2.netlify.app/
 
 This website features jewellery pieces that I have designed and made.
 
-## Improvemnts
+## Improvements
 Recreating the site with React, so it is a SPA.
 
 ## Upcoming features
